@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">HewanPedia</string>
+    // Layout
+    <string name="pilih_gambar">(Pilih gambar untuk membuka galeri)</string>
+    <string name="daftar_ras_judul">Daftar Ras Hewan</string>
+    <string name="tentang_kami">Tentang Kami</string>
+
+    <string name="ular">ular</string>
+    <string name="cacing">cacing</string>
+    <string name="ulat">ulat</string>
+    <string name="ular_list_title">Daftar Ras Ular</string>
+    <string name="cacing_list_title">Daftar Ras Cacing</string>
+    <string name="ulat_list_title">Daftar Ras Ulat</string>
+    // Data ular
+    <string name="sanca_nama">Sanca</string>
+    <string name="sanca_asal">Sepit</string>
+    <string name="sanca_deskripsi">Sanca adalah sebutan umum untuk semua jenis ular pembelit yang diklasifikasikan sebagai familia Pythonidae. Sanca tersebar luas di daerah beriklim panas dan tropis Afrika, Asia, dan Australia. Salah satu spesies sanca, yaitu sanca kembang merupakan ular terpanjang di dunia</string>
+    <string name="anakonda_nama">Anakonda</string>
+    <string name="anakonda_asal">Keruak</string>
+    <string name="anakonda_deskripsi">Anakonda adalah golongan ular besar yang endemik di perairan tawar dan sungai-sungai di daerah tropis Amerika Selatan</string>
+    <string name="lamperpoltis_nama">Lamperpoltis</string>
+    <string name="lamperpoltis_asal">Sakra</string>
+    <string name="lamperpoltis_deskripsi">Lampropeltis adalah nama genus ular kolubrid yang terdapat di Amerika. Nama ilmiahnya, Lampropeltis sisik bercahaya berasal dari kata Lampros cahaya dan pelt perisai, merujuk pada sisik kulit mereka yang mengkilap</string>
+    <string name="mamba_nama">Mamba</string>
+    <string name="mamba_asal">Gawah Gadung</string>
+    <string name="mamba_deskripsi">Mamba adalah sebutan umum untuk empat spesies ular berbisa mematikan yang semuanya diklasifikasikan sebagai genus Dendroaspis. Ular-ular ini endemik di Benua Afrika dan beberapa jenisnya mendapat reputasi sebagai ular yang paling mematikan di dunia</string>
+    // Data cacing
+    <string name="trichuris_trichiura_nama">Trichuris trichiura</string>
+    <string name="trichuris_trichiura_asal">Ciptaan Tuhan</string>
+    <string name="trichuris_trichiura_deskripsi">Cacing bernama latin Trichuris trichiura ini memiliki panjang 5 cm pada betina dan 4 cm pada jantan. Cacing ini hidup di usus besar lalu saat jadi cacing dewasa akan menempel di dinding usus halus dan menghisap darah. Biasanya akan menimbulkan sakit perut, nafsu makan berkurang, dan anemia</string>
+    <string name="cacing_gelang_nama">Cacing Gelang</string>
+    <string name="cacing_gelang_asal">Ciptaan Tuhan</string>
+    <string name="cacing_gelang_deskripsi">Cacing gelang satu ini bisa dikatakan panjang, yang betina sekitar 22-35 cm,</string>
+    <string name="cacing_americanus_nama">Cacing americanus</string>
+    <string name="cacing_americanus_asal">ciptaan tuhan</string>
+    <string name="cacing_americanus_deskripsi">Cacing ini terdiri dari dua jenis, yakni Necator americanus dan Ancylostoma duodenale panjangnya sekitar 0,8-1 cm. </string>
+    <string name="cacing_entrobius_nama">Cacing Entrobius</string>
+    <string name="cacing_entrobius_asal">Rusia</string>
+    <string name="cacing_entrobius_deskripsi">Bernama latin Enterobius vermicularis </string>
+    // Data ulat
+    <string name="ulat_harimaui_sabela_nama">ulat harimau isabela</string>
+    <string name="ulat_harimaui_sabela_asal">Papua</string>
+    <string name="ulat_harimaui_sabela_deskripsi">Pyrrharctia isabella, ngengat harimau isabella, yang bentuk larvanya disebut beruang wol berpita,</string>
+    <string name="ulat_processionary_nama">Ulat Processionary</string>
+    <string name="ulat_processionary_asal">Hutan Oak</string>
+    <string name="ulat_processionary_deskripsi">Processionary adalah ngengat yang ulat dapat ditemukan di hutan oak,</string>
+    <string name="ulat_arna_peseudoconspersa_nama">Ulat Arna Peseudoconspersa</string>
+    <string name="ulat_arna_peseudoconspersa_asal">Jepang</string>
+    <string name="ulat_arna_peseudoconspersa_deskripsi">Arna pseudoconspersa, ngengat teh tussock atau ngengat ekor coklat Jepang, adalah ngengat dari famili Erebidae</string>
+    <string name="ulat_manduca_sexta_nama">Ulat Manduca Sexta</string>
+    <string name="ulat_manduca_sexta_asal">Amerika</string>
+    <string name="ulat_manduca_sexta_deskripsi">Manduca sexta adalah ngengat dari famili Sphingidae yang kini banyak dijumpai di benua Amerika</string>
+    <string name="ulat_harimaui_sabela_nama_asal">papua</string>
+
+</resources>

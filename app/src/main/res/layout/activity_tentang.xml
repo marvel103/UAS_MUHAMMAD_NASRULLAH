@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="24dp"
+    tools:context=".MainActivity">
+    <ImageView
+        android:id="@+id/gambarKami"
+        android:layout_width="wrap_content"
+        android:layout_height="200dp"
+        android:src="@drawable/nasrullah"
+        android:scaleType="fitCenter"
+        android:layout_marginBottom="16dp"
+        />
+
+    <TextView
+        android:id="@+id/txProfil"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Profil Kami"
+        android:textColor="@color/design_default_color_primary_dark"
+        android:textSize="17sp"
+        />
+    <TextView
+        android:id="@+id/txNama"
+        android:layout_marginTop="8dp"
+        android:layout_marginLeft="55dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="left"
+        android:text="Nama : MUHAMMAD NASRULLAH"
+        />
+    <TextView
+        android:id="@+id/txNim"
+        android:layout_marginTop="8dp"
+        android:layout_marginLeft="55dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="left"
+        android:text="NIM    : 180201040"
+        />
+    <TextView
+        android:id="@+id/txProdi"
+        android:layout_marginTop="8dp"
+        android:layout_marginLeft="55dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="left"
+        android:text="Prodi  : Sistem Informasi"
+        />
+    <TextView
+        android:id="@+id/txHobi"
+        android:layout_marginTop="8dp"
+        android:layout_marginLeft="55dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="left"
+        android:text="Hobi   : TIDUR"
+        />
+
+</LinearLayout>
